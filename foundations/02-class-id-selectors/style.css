@@ -2,7 +2,7 @@
     background-color: #ffb6c1;
     font-family: Verdana, "DejaVu Sans", sans-serif;
 }
-#second {
+.odd-squad {
     color: #0000FF;
     font-size: 36px;
 }
@@ -13,6 +13,6 @@
     background-color: #abf7b1;
     font-size: 24px;
     font-weight: bold;
-    color: purple;
     
+
 }
