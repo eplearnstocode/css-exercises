@@ -24,18 +24,22 @@ img {
   justify-content: center;
   background: #eee;
 }
-body {
-  text-align: center;
-}
+
+/*my solution*/
+
 .title {
-  margin-bottom: 32px;
-}
-.content {
-  display: flex;
-  flex-direction: row;
+  display: flex; 
   justify-content: center;
-  gap: 52px;
+  padding: 32px;
 }
-.plants {
+
+.container {
+  display: flex;
+  gap: 52px;
+  justify-content: center;
+}
+
+.items {
+  flex-wrap: wrap;
   max-width: 200px;
 }
