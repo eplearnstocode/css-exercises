@@ -17,3 +17,10 @@
   height: 80px;
 
 }
+
+/*my solution*/
+
+.title {
+ display: flex;
+ align-items: center;
+}
