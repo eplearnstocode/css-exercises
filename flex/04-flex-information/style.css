@@ -27,6 +27,34 @@ img {
 
 /*my solution*/
 
+.body {
+  text-align: center;
+}
+
+.title {
+  margin-bottom: 32px;
+
+}
+
+.container {
+  display: flex;
+ justify-content: center;
+  gap: 52px;
+  
+}
+
+.item {
+  max-width: 200px;
+}
+/*
+.text {
+  text-align: center;
+  word-wrap: break-word;
+}
+
+*/
+/*
+
 .title {
   display: flex; 
   justify-content: center;
@@ -43,3 +71,5 @@ img {
   flex-wrap: wrap;
   max-width: 200px;
 }
+
+*/
